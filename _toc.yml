@@ -1,0 +1,9 @@
+format: jb-book
+root: README
+
+parts:
+  - caption: Cylinders
+    chapters:
+    - file: "inflating_cylinder/normal_cylinder.ipynb"
+    - file: "inflating_cylinder/racetrack_cylinder.ipynb"
+    
