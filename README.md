@@ -2,7 +2,7 @@
 
 Here we demonstrate how to compute stress in simple geometries such as an inflating cylinder.
 
-We set up a racetrack cylinder geometry using the `cardiac-geometriesx` package, and then solve a static elasticity problem using the `fenicsx-pulse` package.
+We set up a racetrack cylinder geometry using the [`cardiac-geometriesx`](https://github.com/ComputationalPhysiology/cardiac-geometriesx) package, and then solve a static elasticity problem using the [`fenicsx-pulse`](https://github.com/finsberg/fenicsx-pulse) package.
 
 ## Running the code locally
 
