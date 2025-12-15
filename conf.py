@@ -52,7 +52,7 @@ html_theme_options = {
         "deepnote_url": "",
     },
     "path_to_docs": "",
-    "repository_url": "https://github.com/finsberg/fenicsx-pulse",
+    "repository_url": "https://github.com/finsberg/simple-stress-estimates",
     "repository_branch": "main",
     "extra_footer": "",
     "home_page_in_toc": True,
@@ -66,24 +66,7 @@ html_theme_options = {
     "use_edit_page_button": False,
     "use_issues_button": True,
 }
-html_title = "fenicsx-pulse"
-intersphinx_mapping = {
-    "basix": ["https://docs.fenicsproject.org/basix/main/python/", None],
-    "ffcx": ["https://docs.fenicsproject.org/ffcx/main/", None],
-    "ufl": ["https://docs.fenicsproject.org/ufl/main/", None],
-    "dolfinx": ["https://docs.fenicsproject.org/dolfinx/main/python", None],
-    "petsc4py": ["https://petsc.org/release/petsc4py", None],
-    "mpi4py": ["https://mpi4py.readthedocs.io/en/stable", None],
-    "numpy": ["https://numpy.org/doc/stable/", None],
-    "matplotlib": ["https://matplotlib.org/stable/", None],
-    "pyvista": ["https://docs.pyvista.org/", None],
-    "packaging": ["https://packaging.pypa.io/en/stable/", None],
-    "gotranx": ["https://finsberg.github.io/gotranx/", None],
-    "cardiac_geometries": [
-        "https://computationalphysiology.github.io/cardiac-geometriesx/",
-        None,
-    ],
-}
+html_title = "simple-stress-estimates"
 latex_engine = "pdflatex"
 myst_enable_extensions = ["amsmath", "dollarmath", "linkify"]
 myst_url_schemes = ["mailto", "http", "https"]
