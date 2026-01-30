@@ -6,5 +6,7 @@ parts:
     chapters:
     - file: "inflating_cylinder/normal_cylinder.ipynb"
     - file: "inflating_cylinder/racetrack_cylinder.ipynb"
+    - file: "inflating_cylinder/elliptical_cylinder.ipynb"
+    - file: "inflating_cylinder/elliptical_cylinder_thick.ipynb"
     - file: "inflating_cylinder/normal_cylinder_stretch.ipynb"
     - file: "inflating_cylinder/thin_cylinder_stretch.ipynb"
